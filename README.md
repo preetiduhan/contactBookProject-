@@ -4,12 +4,17 @@ Contact Book  We come across lots of people daily. We make acquaintances and fri
 Prequisites:
 
 To install pip, securely download get-pip.py.:
+
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
 python get-pip.py
 
 Steps to use openpyxl library in python :
+
 wget https://files.pythonhosted.org/packages/ba/06/b899c8867518df19e242d8cbc82d4ba210f5ffbeebb7704c695e687ab59c/openpyxl-2.6.2.tar.gz
+
 tar -zxvf openpyxl-2.6.2.tar.gz
+
 python setup.py install
 
 
